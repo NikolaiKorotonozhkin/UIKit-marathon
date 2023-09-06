@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         createView()
         createSlider()
         
-        animator = UIViewPropertyAnimator(duration: 2, curve: .linear, animations: {
+        animator = UIViewPropertyAnimator(duration: 1, curve: .linear, animations: {
             self.animatedView.center.x = self.view.frame.width - ((self.animatedView.frame.width * 1.5) / 2) - self.view.layoutMargins.right
             self.animatedView.transform = CGAffineTransform(rotationAngle: CGFloat.pi / 2).scaledBy(x: 1.5, y: 1.5)
         })
