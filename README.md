@@ -6,8 +6,12 @@
 
 ## Task 7
 
-<img src="pictures/task2.png" width="100%"></img><img src="pictures/task2G.gif" width="100%"></img>
+<img src="pictures/task7.png" width="50%"></img><img src="pictures/task7G.gif" width="50%"></img>
 
 ## Task 6
 
-<img src="pictures/task3.png" width="75%"></img><img src="pictures/task3G.gif" width="50%"></img>
+<img src="pictures/task6.png" width="75%"></img><img src="pictures/task6G.gif" width="50%"></img>
+
+## Task 5
+
+<img src="pictures/task5.png" width="50%"></img><img src="pictures/task5G.gif" width="50%"></img>
