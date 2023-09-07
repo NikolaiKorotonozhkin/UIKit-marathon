@@ -1,7 +1,13 @@
 # UIKit-marathon
 
+Большое спасибо Ване [Код Воробья](https://t.me/sparrowcode) за этот ивент.
 
-## Task 7
+Открыл для себя новые штуки и фичи, многие таски точно могут для следующих проектов.
+Понравилось, что дается ТЗ и ограниченное время на выполнение. Дальше поиск информации и реализация полностью за тобой. За месяц сильно улучшил свой навык гугления.
+
+Далее идут задачи и gif с реализацией
+
+## Task 9
 
 <img src="pictures/task9.png" width="50%"></img><img src="pictures/9gif.gif" width="50%"></img>
 
@@ -28,7 +34,7 @@
 
 ## Task 3
 
-<img src="pictures/task3.png" width="50%"></img><img src="pictures/3gif.gif" width="50%"></img
+<img src="pictures/task3.png" width="50%"></img><img src="pictures/3gif.gif" width="50%"></img>
 
 ## Task 2
 
