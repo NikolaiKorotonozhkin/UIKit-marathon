@@ -1,5 +1,10 @@
 # UIKit-marathon
 
+
+## Task 7
+
+<img src="pictures/task9.png" width="50%"></img><img src="pictures/9gif.gif" width="50%"></img>
+
 ## Task 8
 
 <img src="pictures/task8.png" width="100%"></img>
